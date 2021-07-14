@@ -1,8 +1,7 @@
 body {
   background-color: rgba(58, 230, 236, 0.795);
-  opacity: 47%;
 }
-* h2 {
+.h2, .h2 {
   color:rgb(0, 0, 0);
   font-weight: 800;
   font-size: 30px;
