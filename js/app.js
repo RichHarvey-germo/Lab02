@@ -3,7 +3,7 @@
 alert("Welcome to my 🌎 of Fun!");
 
 let userName= prompt('What is your name?');
-  // console.log(userName);
+  console.log(userName);
 
 alert('Hello ' + userName + "! Welcome to the site. Let's play a......guessing game!");
 
