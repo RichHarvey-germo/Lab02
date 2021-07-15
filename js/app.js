@@ -66,7 +66,7 @@ function marcoLearnFly(){
 }
 marcoLearnFly()
 
-function marcoMarineCorps() {
+function marcoMarineCorps(){
   let marineCorps = prompt('Was I ever in the Marine Corps?');
   let marine = marineCorps.toLowerCase();
   if (marine == 'y' || marine == 'yes'){
