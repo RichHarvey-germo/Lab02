@@ -125,7 +125,7 @@ function multQues(){
   }
   alert("Sorry! You've ran out of chances! Thanks for playing, come back again soon " + userName + "!");
 }
-multQues()
+multQues() 
 
 function multChoiceQues(){
 
