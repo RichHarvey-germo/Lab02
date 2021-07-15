@@ -147,7 +147,7 @@ function multChoiceQues(){
 
   alert("Oooooooo-weee! You almost had it! Better luck next time " + userName + "!" + multArray)
 }
-multChoiceQues()
+multChoiceQues 
 
 alert("Thanks for playing " + userName + "! Hope to see you again! Don't forget to hit the like and subscribe button, I'm posting one new project every week! 😎 Your final score is " + score + " out of 7!");
 
