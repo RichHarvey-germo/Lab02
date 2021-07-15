@@ -1,7 +1,7 @@
 "use strict";
 
-alert("Welcome to my 🌎 of Fun!");
-var score = 0;
+alert("Welcome to my 🌎 of Fun!");/// First alert, welcoming User to the page
+var score = 0;/// Variable that keeps track of all correct answers entered, and scored
 let userName= prompt('What is your name?');
   console.log(userName);
 
