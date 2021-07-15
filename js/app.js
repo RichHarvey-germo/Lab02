@@ -7,7 +7,7 @@ let userName= prompt('What is your name?');
 
 alert('Hello ' + userName + "! Welcome to the site. Let's play a......guessing game!");
 
-function marcoFavColor() {
+function marcoFavColor(){
   let favoriteColor = prompt('Is my favorite color purple?');
   let color = favoriteColor.toLowerCase();
   if (color == 'y' || color == 'yes'){
@@ -25,6 +25,7 @@ function marcoFavColor() {
   }
 }
 marcoFavColor()
+
 
 function marcoFavFood() {
   let favoriteFood = prompt('Is my favorite food MRE syled Cheese Tortellini?');
