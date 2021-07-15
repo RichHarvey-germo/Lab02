@@ -85,7 +85,7 @@ function marcoMarineCorps(){
 }
 marcoMarineCorps()
 
-function marcoMoneyBags() {
+function marcoMoneyBags(){
   let moneyBags = prompt('Am I going to be hood riiiich💰💰💰?');
   let money = moneyBags.toLowerCase();
   if (money == 'y' || money == 'yes'){
