@@ -27,7 +27,7 @@ function marcoFavColor(){
 marcoFavColor()
 
 
-function marcoFavFood() {
+function marcoFavFood(){
   let favoriteFood = prompt('Is my favorite food MRE syled Cheese Tortellini?');
   let food = favoriteFood.toLowerCase();
   if (food == 'y' || food == 'yes'){
@@ -45,6 +45,7 @@ function marcoFavFood() {
   }
 }
 marcoFavFood()
+
 
 function marcoLearnFly() {
   let learnFly = prompt('Am I learning how to fly planes?');
