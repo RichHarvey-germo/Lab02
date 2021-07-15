@@ -47,7 +47,7 @@ function marcoFavFood(){
 marcoFavFood()
 
 
-function marcoLearnFly() {
+function marcoLearnFly(){
   let learnFly = prompt('Am I learning how to fly planes?');
   let fly = learnFly.toLowerCase();
   if (fly == 'y' || fly == 'yes'){
